@@ -1,7 +1,7 @@
 # go-api-skel
 
-Used Francesco Campoy example (github.com/campoy/todo) and changed the structure
+Used Francesco Campoy example http://github.com/campoy/todo and changed the structure
 
-Run:
+run:
 
 go run run/local.go
